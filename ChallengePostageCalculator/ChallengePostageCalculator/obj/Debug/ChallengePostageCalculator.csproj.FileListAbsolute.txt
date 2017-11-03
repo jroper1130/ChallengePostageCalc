@@ -1,0 +1,7 @@
+C:\Users\warbe\source\repos\ChallengePostageCalculator\ChallengePostageCalculator\obj\Debug\ChallengePostageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\warbe\source\repos\ChallengePostageCalculator\ChallengePostageCalculator\obj\Debug\ChallengePostageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\warbe\source\repos\ChallengePostageCalculator\ChallengePostageCalculator\bin\ChallengePostageCalculator.dll.config
+C:\Users\warbe\source\repos\ChallengePostageCalculator\ChallengePostageCalculator\bin\ChallengePostageCalculator.dll
+C:\Users\warbe\source\repos\ChallengePostageCalculator\ChallengePostageCalculator\bin\ChallengePostageCalculator.pdb
+C:\Users\warbe\source\repos\ChallengePostageCalculator\ChallengePostageCalculator\obj\Debug\ChallengePostageCalculator.dll
+C:\Users\warbe\source\repos\ChallengePostageCalculator\ChallengePostageCalculator\obj\Debug\ChallengePostageCalculator.pdb
